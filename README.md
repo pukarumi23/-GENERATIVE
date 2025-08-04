@@ -90,8 +90,8 @@ Si encuentras algún problema o tienes preguntas sobre el bot, no dudes en conta
 
 <div align="center">
   <h2>💫 Editor y Propietario</h2>
-  <a href="https://github.com/Brauliovh3">
-    <img src="https://github.com/Brauliovh3.png" width="200" height="200" style="border-radius: 50%;" alt="(ㅎㅊDEPOOLㅊㅎ)">
+  <a href="https://github.com/pukarumi23">
+    <img src="https://github.com/pukarumi23.png" width="200" height="200" style="border-radius: 50%;" alt="◇◆CHASKI◆◇">
   </a>
   
   <p><i>© Independiente / POR ⋉CHASKI⋊</i></p>
