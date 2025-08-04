@@ -20,7 +20,7 @@
 
 ## ✨ Acerca del Bot
 
-¡Hatsune Miku WhatsApp Bot es una herramienta de automatización rica en funciones que trae el encanto de Hatsune Miku a tu experiencia de WhatsApp! Este bot está en desarrollo activo con nuevas características siendo añadidas regularmente.
+¡Independiente WhatsApp Bot es una herramienta de automatización a tu experiencia de WhatsApp! Este bot está en desarrollo activo con nuevas características siendo añadidas regularmente.
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" width="60" height="60">
