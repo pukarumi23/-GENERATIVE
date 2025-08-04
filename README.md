@@ -2,7 +2,7 @@
   
 # 💙 HATSUNE MIKU CHANNEL 💙
 
-![Hatsune Miku Banner](https://telegra.ph/file/5e7042bf17cde23989e71.jpg)
+![Hatsune Miku Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCcjtWkOsmCmTV2Ia-sxUXVC5-9BxvEPjbaxuX7pBl4o8rpS18gdbQBb5_omqkUiijg38&usqp=CAU.jpg)
 
 [![Bot Status](https://img.shields.io/badge/-SIMPLE--WHATSAPP--BOT-green?colorA=%21ff0000&colorB=%21017e40&style=for-the-badge)](https://github.com/Brauliovh3/HATSUNE-MIKU)
 [![Author](https://img.shields.io/badge/Author-(ㅎㅊDEPOOLㅊㅎ)-turquoise.svg?style=for-the-badge&logo=github)](https://qu.ax/HWNA.jpg)
