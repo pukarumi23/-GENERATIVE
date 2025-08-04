@@ -71,7 +71,8 @@ Si encuentras algún problema o tienes preguntas sobre el bot, no dudes en conta
   
   ## 📊 Estadísticas del Repositorio
   
-  ![GitHub Card](https://github-readme-stats.vercel.app/api/pin/?username=pukarumi23&repo=GENERATIVE&theme=radical)
+  !([![Generative Repo](https://github-readme-stats.vercel.app/api/pin/?username=pukarumi23&repo=-GENERATIVE&theme=radical)](https://github.com/pukarumi23/-GENERATIVE)
+)
 </div>
 
 ---
