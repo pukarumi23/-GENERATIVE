@@ -82,9 +82,11 @@ Si encuentras algún problema o tienes preguntas sobre el bot, no dudes en conta
   
   ## 📈 Estadísticas del Desarrollador
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brauliovh3&show_icons=true&theme=radical)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pukarumi23&show_icons=true&theme=radical)
+
   
-  ![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=Brauliovh3&layout=compact&theme=radical)
+![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=pukarumi23&layout=compact&theme=radical)
+
 </div>
 
 ---
