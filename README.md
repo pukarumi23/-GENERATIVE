@@ -1,6 +1,6 @@
 <div align="center">
   
-# 💙 HATSUNE MIKU CHANNEL 💙
+# 🔶INDEPENDIENTE_BOT🔶
 
 ![Hatsune Miku Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCcjtWkOsmCmTV2Ia-sxUXVC5-9BxvEPjbaxuX7pBl4o8rpS18gdbQBb5_omqkUiijg38&usqp=CAU.jpg)
 
@@ -94,12 +94,10 @@ Si encuentras algún problema o tienes preguntas sobre el bot, no dudes en conta
     <img src="https://github.com/Brauliovh3.png" width="200" height="200" style="border-radius: 50%;" alt="(ㅎㅊDEPOOLㅊㅎ)">
   </a>
   
-  <p><i>© Hatsune Miku / POR (ㅎㅊDEPOOLㅊㅎ)</i></p>
+  <p><i>© Independiente / POR ⋉CHASKI⋊</i></p>
 </div>
 
 <div align="center">
-  
-  ### 🎵 ¡Trayendo la magia de Miku a tu WhatsApp! 🎵
   
   ![](https://img.shields.io/badge/Hecho_con-💙-blue?style=for-the-badge)
 </div>
