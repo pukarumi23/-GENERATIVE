@@ -60,10 +60,10 @@ global.avatar = 'https://files.catbox.moe/t5iqh7.jpg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.gp1 = 'https://chat.whatsapp.com/FQ78boTUpJ7Ge3oEtn8pRE?mode=ac_t'
-global.comunidad1 = 'https://chat.whatsapp.com/FQ78boTUpJ7Ge3oEtn8pRE?mode=ac_t'
-global.channel = 'https://www.whatsapp.com/channel/0029VajYamSIHphMAl3ABi1o'
-global.channel2 = 'https://www.whatsapp.com/channel/0029VajYamSIHphMAl3ABi1o'
+global.gp1 = 'https://chat.whatsapp.com/K0Bl5ktWIFE5rMKrKDEOtk'
+global.comunidad1 = 'https://chat.whatsapp.com/K0Bl5ktWIFE5rMKrKDEOtk'
+global.channel = 'https://whatsapp.com/channel/0029Vb5rzPf3rZZXl2DI830G'
+global.channel2 = 'https://whatsapp.com/channel/0029Vb5rzPf3rZZXl2DI830G'
 global.md = 'https://github.com/Brauliovh3/HATSUNE-MIKU'
 global.correo = 'brauliovh3@gmail.com'
 
