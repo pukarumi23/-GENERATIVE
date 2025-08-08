@@ -10,7 +10,7 @@ import moment from 'moment-timezone'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 
-global.botNumber = '' 
+global.botNumber = '51939825027' 
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -64,8 +64,8 @@ global.gp1 = 'https://chat.whatsapp.com/K0Bl5ktWIFE5rMKrKDEOtk'
 global.comunidad1 = 'https://chat.whatsapp.com/K0Bl5ktWIFE5rMKrKDEOtk'
 global.channel = 'https://whatsapp.com/channel/0029Vb5rzPf3rZZXl2DI830G'
 global.channel2 = 'https://whatsapp.com/channel/0029Vb5rzPf3rZZXl2DI830G'
-global.md = 'https://github.com/Brauliovh3/HATSUNE-MIKU'
-global.correo = 'brauliovh3@gmail.com'
+global.md = 'https://github.com/pukarumi23/-GENERATIVE.git'
+global.correo = 'klufayrbj.@gmail.com'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
