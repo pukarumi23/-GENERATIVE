@@ -1,3 +1,5 @@
+// comando que no funciona por que lo apague
+
 /* import { WAMessageStubType } from '@whiskeysockets/baileys'
 import fetch from 'node-fetch'
 
