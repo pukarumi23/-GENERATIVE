@@ -29,15 +29,15 @@ console.log(`Error : ${e}`)
   
 global.creador = 'wa.me/51939508653'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.namechannel = '💙HATSUNE MIKU CHANNEL💙'
-global.namechannel2 = '💙HATSUNE MIKU CHANNEL💙'
-global.namegrupo = '💙HATSUNE MIKU CHANNEL💙'
-global.namecomu = '💙HATSUNE MIKU CHANNEL💙'
+global.namechannel = '🔶INDEPENDIENTE CHANNEL🔶'
+global.namechannel2 = '🔶INDEPENDIENTE CHANNEL🔶'
+global.namegrupo = '🔶INDEPENDIENTE CHANNEL🔶'
+global.namecomu = '🔶INDEPENDIENTE CHANNEL🔶'
 global.listo = '*Aquí tienes ฅ^•ﻌ•^ฅ*'
 global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://files.catbox.moe/x0n79u.webp')
 
 global.canalIdM = ["120363418348675041@newsletter", "120363418348675041@newsletter"]
-global.canalNombreM = ["💙HATSUNE MIKU CHANNEL💙"]
+global.canalNombreM = ["🔶INDEPENDIENTE CHANNEL🔶"]
 global.channelRD = await getRandomChannel()
 
 global.d = new Date(new Date + 3600000)
@@ -53,23 +53,23 @@ global.done = '✅'
 global.error = '✖️'
 global.msm = '⚠︎'
 
-global.emoji = '💙'
+global.emoji = '🔶'
 global.emoji2 = '🔌'
 global.emoji3 = '💎'
 global.emoji4 = '🚂'
-global.emoji5 = '💙'
+global.emoji5 = '🔶'
 global.emojis = [emoji, emoji2, emoji3, emoji4].getRandom()
 
-global.wait = '💙 Espera un momento, soy lenta...';
-global.waitt = '💙 Espera un momento, soy lenta...';
-global.waittt = '💙 Espera un momento, soy lenta...';
-global.waitttt = '💙 Espera un momento, soy lenta...';
+global.wait = '🔶 Espera un momento, soy lento...';
+global.waitt = '🔶 Espera un momento, soy lento...';
+global.waittt = '🔶 Espera un momento, soy lento...';
+global.waitttt = '🔶 Espera un momento, soy lento...';
 
-var canal = 'https://whatsapp.com/channel/0029VajYamSIHphMAl3ABi1o'  
-var comunidad = 'https://chat.whatsapp.com/FQ78boTUpJ7Ge3oEtn8pRE?mode=ac_t'
-var git = 'https://github.com/Brauliovh3'
-var github = 'https://github.com/Brauliovh3/HATSUNE-MIKU' 
-let correo = 'velasquezhuillcab@gmail.com'
+var canal = 'https://whatsapp.com/channel/0029Vb5rzPf3rZZXl2DI830G'  
+var comunidad = 'https://chat.whatsapp.com/IZfEp21gtvj9buh2t9Xrwu'
+var git = 'https://github.com/pukarumi23'
+var github = 'https://github.com/pukarumi23/-GENERATIVE' 
+let correo = 'chaski_3023_ia@gmail.com'
 global.redes = [canal, comunidad, git, github, correo].getRandom()
 
 let category = "imagen"
@@ -89,15 +89,15 @@ global.taguser = '@' + m.sender.split("@s.whatsapp.net")
 var more = String.fromCharCode(8206)
 global.readMore = more.repeat(850)
 
-global.packsticker = `💙━━━✦✧✦━━━💙
+global.packsticker = `🔶━━━✦✧✦━━━🔶
 🎤 Usuario: ${nombre}
 🤖 Bot: ${botname}
 📅 Fecha: ${fecha}
 ⏰ Hora: ${tiempo}
-💙━━━✦✧✦━━━💙`;
+🔶━━━✦✧✦━━━🔶`;
 
 global.packsticker2 = `
-💙━━━✦✧✦━━━💙
+🔶━━━✦✧✦━━━🔶
 
 ${dev}
 `;
