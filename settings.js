@@ -26,7 +26,7 @@ global.owner = [
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.mods = []
-global.suittag = ['51988514570'] 
+global.suittag = ['51939508653'] 
 global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -45,8 +45,8 @@ global.yukiJadibts = true
 global.packname = '🎤✨ 𝙃𝘼𝙏𝙎𝙐𝙉𝙀 𝙈𝙄𝙆𝙐 𝘽𝙊𝙏 ✨🎤'
 global.botname = '🄷🄰🅃🅂🅄🄽🄴 🄼🄸🄺🅄'
 global.wm = '🎵◟Hαƚsυɳҽ Mιƙυ◞🎵'
-global.author = '© (ㅎㅊDEPOOLㅊㅎ)'
-global.dev = '© 🄿🄾🅆🄴🅁🄴🄳 (ㅎㅊDEPOOLㅊㅎ)'
+global.author = 'CHASKI'
+global.dev = '© 🄿🄾🅆🄴🅁🄴🄳 CHASKI'
 global.textbot = '🎤✨ Hatsune Miku, la Diva Virtual del Futuro ✨🎤'
 global.etiqueta = '🎵 Ｍｉｋｕ Ｄｅｖ 🎵'
 
@@ -60,12 +60,12 @@ global.avatar = 'https://files.catbox.moe/t5iqh7.jpg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.gp1 = 'https://chat.whatsapp.com/FQ78boTUpJ7Ge3oEtn8pRE?mode=ac_t'
-global.comunidad1 = 'https://chat.whatsapp.com/FQ78boTUpJ7Ge3oEtn8pRE?mode=ac_t'
-global.channel = 'https://www.whatsapp.com/channel/0029VajYamSIHphMAl3ABi1o'
-global.channel2 = 'https://www.whatsapp.com/channel/0029VajYamSIHphMAl3ABi1o'
-global.md = 'https://github.com/Brauliovh3/HATSUNE-MIKU'
-global.correo = 'brauliovh3@gmail.com'
+global.gp1 = 'https://chat.whatsapp.com/K0Bl5ktWIFE5rMKrKDEOtk'
+global.comunidad1 = 'https://chat.whatsapp.com/IZfEp21gtvj9buh2t9Xrwu'
+global.channel = 'https://whatsapp.com/channel/0029Vb5rzPf3rZZXl2DI830G'
+global.channel2 = 'https://whatsapp.com/channel/0029Vb5rzPf3rZZXl2DI830G'
+global.md = 'https://github.com/pukarumi23/-GENERATIVE.'
+global.correo = 'chaski_3023_ia@gmail.com'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
